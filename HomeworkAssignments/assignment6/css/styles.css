@@ -1,0 +1,35 @@
+html{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#FFF
+}
+
+h1{
+    padding:3vw;
+    font-size:7vw;
+    text-align:center;
+}
+h2{
+    margin:2vw;
+    font-size:4vw;
+    text-align:center;
+}
+h3{
+    font-size:3vw;
+}
+#hours p{
+    margin:2vw;
+    font-size:3vw;
+    text-align:center;
+}
+main{
+    display:flex;
+    width:90vw;
+    margin:auto;
+}
+.service{
+    padding:1vw;
+    font-size:2vw;
+    margin:1vw;
+    border:1px #DDD solid;
+    border-radius:5px;
+}

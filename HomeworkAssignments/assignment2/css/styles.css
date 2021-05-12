@@ -1,0 +1,13 @@
+html{
+    background-color:#557;
+}
+#container{
+    display:block;
+    position:relative;
+    margin:auto;
+    top:20vw;
+    text-align:center;
+    font-size:5vw;
+    font-family:sans-serif;
+    color:#F62;
+}
